@@ -12,4 +12,3 @@ Ship high-performance Next.js apps for extremely cheap
 #### 参考
 [Next.js×最新スタックでSNSアプリを開発するチュートリアル【JStack/Hono/Clerk/zod/Drizzle】](https://youtu.be/zqX44IhgKd8?si=cWmJlMVC5lT2bhdm)
 
-# jstack-twitter-clone
